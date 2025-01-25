@@ -1,0 +1,19 @@
+{
+  "name": "Hachiro-Vermillion",
+  "version": "1.0.0",
+  "description": "bot connect whatsapp with baileys code pairing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "MuraHachiro",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "baileys": "github:AxellNetwork/Baileys",
+    "awesome-phonenumber": "^2.64.0",
+    "child_process": "^1.0.2",
+    "pino": "^7.0.5",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
